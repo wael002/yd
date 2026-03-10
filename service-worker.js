@@ -1,8 +1,8 @@
-const CACHE_NAME = 'yatta-schools-v2';
+const CACHE_NAME = 'yatta-schools-v3';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/logo.png',
+  '/yd/',
+  '/yd/index.html',
+  '/yd/logo.png',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',
   'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'
