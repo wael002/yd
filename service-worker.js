@@ -1,4 +1,4 @@
-const CACHE_NAME = 'yatta-schools-v1';
+const CACHE_NAME = 'yatta-schools-v2';
 const urlsToCache = [
   '/',
   '/index.html',
